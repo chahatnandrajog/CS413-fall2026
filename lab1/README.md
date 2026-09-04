@@ -2,8 +2,8 @@
 
 ## Student information
 
-Name: **REPLACE THIS WITH YOUR NAME**
+Name: Chahat Nandrajog
 
 In one sentence, what is the difference between Git and GitHub?
 
-**REPLACE THIS SENTENCE**
+git is used for version control, github is a cloud based platform
